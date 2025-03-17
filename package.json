@@ -1,0 +1,19 @@
+{
+  "name": "auth-project",
+  "version": "1.0.0",
+  "description": "In this project I build a complete auth API with Node.js, Express.js and MongoDB.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Odima-dev/auth-project.git"
+  },
+  "author": "Vincent Odima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Odima-dev/auth-project/issues"
+  },
+  "homepage": "https://github.com/Odima-dev/auth-project#readme"
+}
